@@ -5,5 +5,6 @@ int main() {
 	std::cout << "Let's commit!" << std::endl;
 	std::cout << "Now branch is Master!" << std::endl;
 	std::cout << "Now branch is Kari!" << std::endl;
+	std::cout << "Now branch is zaki!" << std::endl;
 	return 0;
 }
